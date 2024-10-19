@@ -1,5 +1,4 @@
 import React from 'react';
-import './Input.css'; // Importando os estilos específicos
 
 function Input({ label, value, onChange }) {
   return (
